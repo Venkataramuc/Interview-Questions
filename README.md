@@ -7,7 +7,6 @@ the missing link you have been searching for
 
 ![Badge](https://img.shields.io/badge/Tech-Interviews-blue.svg)
 
-##### [AboutMe](about.me/simplymanas)  |  [Blog](http://manasdash.thoughts2share.in/) | [Github](https://github.com/simplymanas/)
 
 [Dev.to](https://dev.to/simplymanas/tech-interviews-this-might-be-your-next-question-575c)
 
